@@ -11,4 +11,4 @@ I am a second-year master's student from [School of Information and Electronics]
 
 You can find my papers here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:haoyu_edu@163.com) / [Github](https://github.com/haoyu502) / [Wechat](../images/Wechat.jpg) / [QQ](../images/QQ.txt) [CSDN](https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111)
+[Email](mailto:haoyu_edu@163.com) / [Github](https://github.com/haoyu502) / [Wechat](../images/Wechat.jpg) / [QQ](../images/QQ.jpg) / [CSDN](https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111)
