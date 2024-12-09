@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student from [School of Information and Electronics](https://sie.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interest includes intelligent transportation systems, drone path planning, and machine learning.
+I am a second-year master's student from [School of Information and Electronics](https://sie.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interest includes Multi-agent Reinforcement Learning,  and Robotics.
 
 You can find my papers here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
